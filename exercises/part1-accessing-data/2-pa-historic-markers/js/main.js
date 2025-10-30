@@ -53,6 +53,7 @@ async function getHistoricMarkerData(keyword, categories) {
   //    categories, e.g.: &markerCategories=2&markerCategories=3
 
   // ... Your code here ...
+  
 }
 
 /**
